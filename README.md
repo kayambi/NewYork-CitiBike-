@@ -1,5 +1,6 @@
 # NewYork-CitiBike-
 
+<img src = "Images/citi-bike-station-bikes.jpg">
 analyzing City Bike for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, in this projet we will generate regular reports for city officials looking to publicize and improve the city program.
 
 
